@@ -1,5 +1,7 @@
 <?php
 
+mb_http_output('UTF-8');
+
 $name = 'peson';
 
 $person ['name' => 'Lucas', 'age' => '25', 
