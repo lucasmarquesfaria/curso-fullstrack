@@ -1,0 +1,17 @@
+{
+    "name": "marqu/curso-full-stack",
+    "autoload": {
+        "psr-4": {
+            "Marqu\\CursoFullStack\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Marques",
+            "email": "marquesfaria99@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
